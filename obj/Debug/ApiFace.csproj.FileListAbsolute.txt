@@ -1,0 +1,645 @@
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x64\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x64\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x64\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x86\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x86\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x86\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ApiFace.dll.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csi.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csi.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\csi.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.AppContext.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Console.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\vbc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\vbc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\vbc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Antlr3.Runtime.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\MySql.Data.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Newtonsoft.Json.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Net.Http.Formatting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Helpers.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.WebHost.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Mvc.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Optimization.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\WebGrease.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ZedGraph.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Google.Protobuf.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\BouncyCastle.Crypto.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Renci.SshNet.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\MySql.Data.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.Cors.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Newtonsoft.Json.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Net.Http.Formatting.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Helpers.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Http.WebHost.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Mvc.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Optimization.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Antlr3.Runtime.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ZedGraph.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Http.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\obj\Debug\ApiFace.csprojAssemblyReference.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\obj\Debug\ApiFace.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\obj\Debug\ApiFace.csproj.CopyComplete
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\obj\Debug\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace\obj\Debug\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\obj\Debug\ApiFace.csprojAssemblyReference.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\obj\Debug\ApiFace.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\obj\Debug\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\obj\Debug\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x64\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x64\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x64\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x86\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x86\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x86\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ApiFace.dll.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csi.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csi.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\csi.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.AppContext.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Console.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\vbc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\vbc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\vbc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Antlr3.Runtime.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\MySql.Data.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Newtonsoft.Json.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Net.Http.Formatting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Helpers.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.WebHost.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Mvc.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Optimization.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\WebGrease.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ZedGraph.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Google.Protobuf.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\BouncyCastle.Crypto.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Renci.SshNet.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\MySql.Data.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.Cors.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Newtonsoft.Json.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Net.Http.Formatting.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Helpers.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Http.WebHost.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Mvc.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Optimization.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Antlr3.Runtime.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ZedGraph.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Http.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (18-12-2019)\obj\Debug\ApiFace.csproj.CopyComplete
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\obj\Debug\ApiFace.csprojAssemblyReference.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\obj\Debug\ApiFace.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\obj\Debug\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\obj\Debug\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x64\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x64\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x64\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x86\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x86\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x86\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ApiFace.dll.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csi.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csi.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\csi.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.AppContext.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Console.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\vbc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\vbc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\vbc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Antlr3.Runtime.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\MySql.Data.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Newtonsoft.Json.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Net.Http.Formatting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Helpers.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.WebHost.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Mvc.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Optimization.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\WebGrease.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ZedGraph.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Google.Protobuf.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\BouncyCastle.Crypto.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Renci.SshNet.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\MySql.Data.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.Cors.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Newtonsoft.Json.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Net.Http.Formatting.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Helpers.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Http.WebHost.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Mvc.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Optimization.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Antlr3.Runtime.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ZedGraph.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Http.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (20-12-2019)\obj\Debug\ApiFace.csproj.CopyComplete
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x64\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x64\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x64\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x86\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x86\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x86\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ApiFace.dll.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csi.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csi.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\csi.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.AppContext.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Console.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\vbc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\vbc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\vbc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Antlr3.Runtime.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\MySql.Data.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Newtonsoft.Json.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Net.Http.Formatting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Helpers.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.WebHost.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Mvc.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Optimization.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\WebGrease.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ZedGraph.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Google.Protobuf.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\BouncyCastle.Crypto.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Renci.SshNet.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\MySql.Data.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.Cors.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Newtonsoft.Json.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Net.Http.Formatting.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Helpers.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Http.WebHost.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Mvc.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Optimization.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Antlr3.Runtime.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ZedGraph.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Http.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\obj\Debug\ApiFace.csprojAssemblyReference.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\obj\Debug\ApiFace.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\obj\Debug\ApiFace.csproj.CopyComplete
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\obj\Debug\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (24-12-2019)\obj\Debug\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x64\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x64\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x64\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x64\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x86\concrt140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x86\cvextern.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x86\msvcp140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\x86\vcruntime140.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ApiFace.dll.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ApiFace.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csi.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csi.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\csi.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.AppContext.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Console.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\vbc.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\vbc.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\vbc.rsp
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Antlr3.Runtime.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Emgu.CV.UI.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Emgu.CV.World.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\MySql.Data.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Newtonsoft.Json.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Net.Http.Formatting.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Helpers.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.Cors.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.WebHost.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Mvc.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Optimization.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\WebGrease.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ZedGraph.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Google.Protobuf.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\BouncyCastle.Crypto.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Renci.SshNet.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Emgu.CV.UI.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Emgu.CV.World.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\MySql.Data.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.Cors.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Newtonsoft.Json.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Net.Http.Formatting.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Helpers.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Http.WebHost.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Mvc.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Optimization.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Antlr3.Runtime.pdb
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ZedGraph.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Http.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Optimization.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\de\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\es\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\fr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\hu\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\it\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ja\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\pt\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\ru\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\sk\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\sv\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\tr\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\zh-cn\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\bin\zh-tw\ZedGraph.resources.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\obj\Debug\ApiFace.csprojAssemblyReference.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\obj\Debug\ApiFace.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\obj\Debug\ApiFace.csproj.CopyComplete
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\obj\Debug\ApiFace.dll
+C:\Users\PC1\Documents\Cursos\Curso de c#\Proyectos\ApiFace - (25-12-2019)\obj\Debug\ApiFace.pdb
