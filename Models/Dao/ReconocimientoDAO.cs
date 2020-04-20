@@ -81,7 +81,6 @@ namespace ApiFace.Models.Dao
 			byte[] cuadroVideo = conversiones.convertToByte(objImagen.ImagenPersona);
 			Image cuadroImagen = conversiones.ConvertFrameToImg(cuadroVideo);
 			Image<Bgr, byte> cuadro = conversiones.imageToEmguImage(cuadroImagen);
-			Image<Gray, byte> gray = cuadro.Convert<Gray, byte>();
 			obtenerRostros();
 			int[] Ids = idPersona;
 			contrain = Ids.Length;

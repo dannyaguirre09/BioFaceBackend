@@ -34,5 +34,12 @@ namespace ApiFace.Controllers
 			return dao.eliminarRegistroIdRegistro(idRegistro);
 		}
 
+		[HttpPut]
+		public int actualizarRegistro(int idRegistro, int esIngreso)
+		{
+			dao = new RegistroDAO();
+			return dao.actualizarTipoRegistro(idRegistro, esIngreso);
+		}
+
 	}
 }
